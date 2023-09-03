@@ -1,0 +1,7 @@
+Version 1:
+
+[x] should have a place to store the todo data
+[x] should have a way to display the todos
+[x] should have a way to add new todos
+[x] should have a way to edit a todo
+[x] should have a way to delete a todo
